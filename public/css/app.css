@@ -1,0 +1,90 @@
+/***************************
+CSS table of contents
+    - Hero
+    - About Me
+    - Projects
+    - Contact Me
+    - Footer
+****************************/
+
+/********************************
+Hero
+********************************/
+
+/********************************
+About Me
+*********************************/
+
+#aboutMe {
+  padding: 25px 0;
+}
+
+#aboutMe .about-title_wrapper h1 {
+  color: #444649;
+}
+
+/********************************
+Projects
+*********************************/
+
+#projects {
+  padding: 25px 0;
+}
+
+#projects .projects-title_wrapper h1 {
+  color: #444649;
+}
+
+/********************************
+Contact Me
+*********************************/
+
+#contactMe {
+  background-color: #444649;
+}
+
+#contactMe .contact-btn-container a {
+  background-color: #04C2C9;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+/*********************************
+Footer
+**********************************/
+
+#footer {
+  background-color: #000;
+}
+
+#footer .footer-txt {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+#footer .footer-txt p {
+  margin-bottom: 0px;
+  color: #fff;
+  font-size: 14px;
+}
+
+#footer .social-media_wrap ul {
+  float: right;
+  margin: 0px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+#footer .social-media_wrap ul li {
+  display: inline-block;
+  padding-left: 10px;
+}
+
+#footer .social-media_wrap ul li a {
+  color: #fff;
+}
+
+#footer .social-media_wrap ul li a i {
+  font-size: 20px;
+}
+
